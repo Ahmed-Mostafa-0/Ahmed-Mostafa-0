@@ -26,7 +26,7 @@ I am a Junior Quality Engineer focused on Quality Management, Food Safety, Quali
 - ISO 9001 Practical Project
 - PRPs Program
 - TQM Case Study
-- Emergency Preparedness Plan## Hi there 👋
+- Emergency Preparedness Plan
 
 <!--
 **Ahmed-Mostafa-0/Ahmed-Mostafa-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
